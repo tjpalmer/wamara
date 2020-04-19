@@ -5,3 +5,4 @@ authors = ["Tom"]
 edition = "2018"
 
 [dependencies]
+sdl2 = "0.33.0"
